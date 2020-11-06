@@ -20,7 +20,7 @@ to install this script , youll need 1 program board , 5 screens , 5 containers a
           then place zone sensor in a good possition and link that to the program board
           
 screen 1 works with container 1 and so forth .
-once its all linked, you can right click program board and click edit lua perametres to start setting up the names prices weights etc
+once its all linked, you can right click program board and click edit lua perametres to start setting up the names prices weights and to change all colors etc
 
 MAKE SURE TO SET EACH ITEMS WEIGHT AS THATS HOW IT CALCULATES STOCK LEVEL
           
