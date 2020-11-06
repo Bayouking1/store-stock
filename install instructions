@@ -1,0 +1,24 @@
+# shop-script
+shop script for Dual Universe to display item, stock level, price , batch size
+
+
+to install this script , youll need 1 program board , 5 screens , 5 containers and a zone sensor to activate the program board when your not there.
+
+1- copy all of the code , right click program board and click paste configuration 
+2- linking order 
+          first link to screen 1
+          second link to screen 2
+          third link to screen 3
+          fourth link to screen 4
+          fith link to screen 5
+          sixth link to container 1
+          seventh link to container 2
+          eighth link to container 3
+          nineth link to container 4
+          tenth link to container 5
+          
+screen 1 works with container 1 and so forth .
+once its all linked, you can right click program board and click edit lua perametres to start setting up the names prices weights etc
+          
+          
+
